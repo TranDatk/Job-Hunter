@@ -56,7 +56,17 @@ The frontend of the Job Hunter project is a React application built with Vite. T
 |--------------|--------------|--------------|
 | ![image](https://github.com/user-attachments/assets/d6eeb5c3-26d9-4e90-8bb9-a00219a32c57) | ![image](https://github.com/user-attachments/assets/bf79edac-e65d-434b-a63a-8bbf1d892f60) | ![image](https://github.com/user-attachments/assets/607f63ea-c64b-41e0-8284-5276a1ecb1e9) |
 
+### HR Dashboard
 
+|     Job      |    Resume    |
+|--------------|--------------|
+| ![image](https://github.com/user-attachments/assets/2d390e2d-4cf4-40c1-8dfe-eee3884f0321) | ![image](https://github.com/user-attachments/assets/ff476a86-85c1-4663-84b3-b06cb93a2d17) |
+
+### Client page
+
+|   Homepage   |  Filter job  |  Upload CV   | Check status |
+|--------------|--------------|--------------|--------------|
+| ![image](https://github.com/user-attachments/assets/2c00d14f-c5e8-4a85-9041-0780fa38d210) | ![image](https://github.com/user-attachments/assets/bca9953f-09d5-471d-9d5f-f3085ca7f529) | ![image](https://github.com/user-attachments/assets/2c6caf12-cd3b-4029-9f73-3ab3e9a6627c) | ![image](https://github.com/user-attachments/assets/85423b5a-7fe3-4bc0-9547-f4d5a73eb558) |
 
 ## Project Structure
 
