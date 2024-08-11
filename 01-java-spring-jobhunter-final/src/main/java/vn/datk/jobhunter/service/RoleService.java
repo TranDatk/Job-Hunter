@@ -60,7 +60,7 @@ public class RoleService {
                             Permission::getId
                     ).collect(Collectors.toList());
             List<Permission> dbPermissions = this.permissionRepository.findByIdIn(reqPermissions);
-            role.setPermissions(dbPermissions);
+            currentRole.setPermissions(dbPermissions);
         }
 
         currentRole.setName(role.getName());
